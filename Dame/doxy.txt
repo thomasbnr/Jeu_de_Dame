@@ -1,0 +1,15 @@
+dans le .h 
+
+EN dessous de chaque fonctions 
+/// Initiliasation  plateau du jeu 
+void (initPlateau)
+
+COmmentaire long 
+
+// Définition des fonctions 
+
+/**
+
+*/
+
+Def de la fonction 
